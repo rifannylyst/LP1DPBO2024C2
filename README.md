@@ -24,4 +24,10 @@ Penjelasan Alur Kode:
    - Program akan menampilkan daftar anggota DPR yang telah tersimpan menggunakan metode `tampilkan_anggota`.
 8. Loop utama program akan terus berjalan hingga pengguna memilih opsi "Keluar".
 9. Program kemudian akan berakhir.
+    
+![tambah](https://github.com/rifannylyst/LP1DPBO2024C2/assets/147616851/a1ff1906-31f6-4646-96e7-231fe0082363)
+![tambah2](https://github.com/rifannylyst/LP1DPBO2024C2/assets/147616851/f3f4525b-2197-45c7-9eed-ae952ee70565)
+![ubah](https://github.com/rifannylyst/LP1DPBO2024C2/assets/147616851/0ef015d1-7096-447e-af71-6ab89b4e8fee)
+![hapus](https://github.com/rifannylyst/LP1DPBO2024C2/assets/147616851/2ba925aa-8631-4483-969e-b8fc0fb43bb0)
+
 
